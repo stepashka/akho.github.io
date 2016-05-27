@@ -8,11 +8,11 @@ permalink: /baby-wishlist/
 
 ## Товары долгосрочного пользования
 
-- Чехлы на колеса для нашей коляски (Bugaboo Cameleon 3).
+- Чехлы на колеса для нашей коляски (Bugaboo Cameleon 3). Предварительно занято; если вдруг встретите в магазине — звоните.
 - Коляска-трость [Baby zen yoyo](https://market.yandex.ru/product/8528976?hid=90796&suggest=1&suggest_type=model).
-- Рюкзак-переноска [Ergo baby Original](https://market.yandex.ru/product/1224138937?hid=989026&show-uid=64091699339949026800000).
-- Инфракрасный градусник Chicco.
+- Инфракрасный градусник для измерения температуры тела, воздуха и воды.
 - Увлажнитель воздуха (технология nanocloud; например, [такой](http://www.ozon.ru/context/detail/id/22444124/?frommarket=https%3a/market.yandex.ru/search.xml%3fcvredirect=2&text=увлажнитель+воздуха+nanocloud&utm_campaign=div_appliance&utm_content=22444124&utm_medium=cpc&utm_source=cpc_yandex_market&utm_term=22444124&ymclid=64288878735409720190005)).
+- Гигрометр.
 - Стульчик для кормления [Stokke Tripp Trapp](http://www.istokke.ru/stulya/tripp-trapp/).
 - Дышащий коврик для автокресла и коляски (например, [LeoKid](http://kids.wikimart.ru/walks_and_tours/child_carseats/accessories_carchair/model/72258775/matrasy_leokid_dyshashhijj_kovrik_krasnyjj/)).
 - Радионяня (любая; мы пока не знаем, что нам нужно. Можно [такую](https://market.yandex.ru/product/13414678?hid=989023) или другую дешевую).
@@ -36,16 +36,14 @@ permalink: /baby-wishlist/
 - Масло для массажа животика.
 - Сливки под подгузник.
 - Шампунь для тела и волос.
-- Масло для мамы (Iris, Biooil).
 - Средство простив комаров (Iris анти-инсект).
-- Аромамасло для ванны (Iris лаванда+).
 
 
 ## Игрушки
 
 Лучше товарами из этой категории не злоупотреблять. Важно, чтобы игрушки были сертифицированы для продажи в Евросоюзе (тогда есть надежда, что покрашены они нетоксичной краской); лучше даже европейского производства.
 
-В икее можно [все](http://www.ikea.com/ru/ru/catalog/categories/departments/childrens_ikea/18716/) брать. Например, [тренажер](http://www.ikea.com/ru/ru/catalog/products/70108177/), [мячик](http://www.ikea.com/ru/ru/catalog/products/00159542/), [пирамидка](http://www.ikea.com/ru/ru/catalog/products/50294887/) или [мягкие погремушки-котики](http://www.ikea.com/ru/ru/catalog/products/60266228/). 
+В икее можно [все](http://www.ikea.com/ru/ru/catalog/categories/departments/childrens_ikea/18716/) брать. Например, [тренажер](http://www.ikea.com/ru/ru/catalog/products/70108177/), [мячик](http://www.ikea.com/ru/ru/catalog/products/00159542/), [пирамидка](http://www.ikea.com/ru/ru/catalog/products/50294887/) или [мягкие погремушки-котики](http://www.ikea.com/ru/ru/catalog/products/60266228/).
 
 Обязательно нужен [жирафик Софи](http://www.sofigiraf.ru/). Не надо покупать других похожих жирафиков и прочих жевательных игрушек. Продают, например, вот [здесь](http://www.olant-shop.ru/catalog/olant/?ID=2168543&SECTION_ID=2343).
 
