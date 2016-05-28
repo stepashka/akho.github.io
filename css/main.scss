@@ -11,11 +11,12 @@ $font-size-lg:               1.33rem !default;
 $font-size-sm:               .75rem !default;
 $font-size-xs:               .56rem !default;
 
-$font-size-h1:               3.13rem !default;
-$font-size-h2:               2.35rem !default;
-$font-size-h3:               1.75rem !default;
-$font-size-h4:               1.77rem !default;
-$font-size-h5:               1.33rem !default;
+$font-size-h0:               3.13rem !default;
+$font-size-h1:               2.35rem !default;
+$font-size-h2:               1.75rem !default;
+$font-size-h3:               1.77rem !default;
+$font-size-h4:               1.33rem !default;
+$font-size-h5:               1rem !default;
 $font-size-h6:               1rem !default;
 
 @import "bootstrap/bootstrap";
@@ -24,6 +25,14 @@ ul.dashes {
     list-style: none;
     margin-left: -1.6em;
     li:before { content: "— "; margin-left: -1em; }
+}
+
+h6 {
+    font-style: italic;
+}
+
+h5 {
+    font-weight: bolder;
 }
 
 //
