@@ -9,7 +9,6 @@ permalink: /baby-wishlist/
 #### Товары долгосрочного пользования
 
 {: .dashes}
-- <span class="label label-danger">Сейчас</span> Чехлы на колеса для нашей коляски (Bugaboo Cameleon 3; они вроде должны быть универсальные, но если в магазине есть такая коляска и возможность померить — то лучше это сделать). Предварительно занято; если вдруг встретите в магазине — звоните.
 - Коляска-трость [Baby zen yoyo](https://market.yandex.ru/product/8528976?hid=90796&suggest=1&suggest_type=model).
 - <span class="label label-danger">Сейчас</span> Инфракрасный градусник для измерения температуры тела, воздуха и воды.
 - <span class="label label-danger">Сейчас</span> Увлажнитель воздуха (технология nanocloud; например, [такой](http://www.ozon.ru/context/detail/id/22444124/?frommarket=https%3a/market.yandex.ru/search.xml%3fcvredirect=2&text=увлажнитель+воздуха+nanocloud&utm_campaign=div_appliance&utm_content=22444124&utm_medium=cpc&utm_source=cpc_yandex_market&utm_term=22444124&ymclid=64288878735409720190005)).
