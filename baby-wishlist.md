@@ -4,7 +4,7 @@ title: Подарки для Мефодия и его родителей
 permalink: /baby-wishlist/
 ---
 
-Мы очень просим подарки предварительно согласовывать с нами, чтобы ничего не совпадало и не было лишнего. То, что нужно скоро, помечено специальным значком <nobr><span class="label label-danger">Сейчас</span>;</nobr> остальное для возрастов чуть постарше или просто может подождать.
+Мы очень просим подарки предварительно согласовывать с нами, чтобы ничего не совпадало и не было лишнего. То, что нужно скоро, помечено специальным значком <nobr><span class="label label-danger">Сейчас</span>;</nobr> остальное для возрастов чуть постарше или просто может подождать. Помеченное флажком <span class="label label-warning">Занято</span> предварительно занято; если будете проходить мимо в магазине и подумаете купить — позвоните нам.
 
 #### Товары долгосрочного пользования
 
@@ -16,7 +16,7 @@ permalink: /baby-wishlist/
 - Стульчик для кормления [Stokke Tripp Trapp](http://www.istokke.ru/stulya/tripp-trapp/). Можно его отечественный [«аналог»](http://kid-fix.ru).
 - Дышащий коврик для автокресла и коляски (например, [LeoKid](http://kids.wikimart.ru/walks_and_tours/child_carseats/accessories_carchair/model/72258775/matrasy_leokid_dyshashhijj_kovrik_krasnyjj/)).
 - Радионяня (любая; мы пока не знаем, что нам нужно. Можно [такую](https://market.yandex.ru/product/13414678?hid=989023) или другую дешевую).
-- Шезлонг Babybjorn balance (других шезлонгов покупать не нужно). Есть [здесь](http://www.mytoys.ru/BabyBjorn-Кресло-шезлонг-Balance-Soft-BabyBjorn-бежевый/Кресла-качалки-качели-и-шезлон/KID/ru-mt.ba.ca32.02/2621983?utm_content=17218360&utm_medium=CPC&mc=RUS_MTS_ONL_PSE_yandex-market_feed_ps_1&ymclid=64282486011518798630002&utm_campaign=17218330&utm_source=ymarket&frommarket=https%3A%2F%2Fmarket.yandex.ru%2Fsearch.xml%3Fclid%3D545%26cvredirect%3D0%26text%3Dbabybjorn+balance&utm_term=2621983), но можно [б/у](https://www.avito.ru/moskva?q=babybjorn+balance).
+- <span class="label label-warning">Занято</span> Шезлонг Babybjorn balance (других шезлонгов покупать не нужно). Есть [здесь](http://www.mytoys.ru/BabyBjorn-Кресло-шезлонг-Balance-Soft-BabyBjorn-бежевый/Кресла-качалки-качели-и-шезлон/KID/ru-mt.ba.ca32.02/2621983?utm_content=17218360&utm_medium=CPC&mc=RUS_MTS_ONL_PSE_yandex-market_feed_ps_1&ymclid=64282486011518798630002&utm_campaign=17218330&utm_source=ymarket&frommarket=https%3A%2F%2Fmarket.yandex.ru%2Fsearch.xml%3Fclid%3D545%26cvredirect%3D0%26text%3Dbabybjorn+balance&utm_term=2621983), но можно [б/у](https://www.avito.ru/moskva?q=babybjorn+balance).
 - <span class="label label-danger">Сейчас</span> Запасной чехол на кокон (у нас Red Castle Cocoonababy; чехлы есть [вот здесь](http://www.olant-shop.ru/catalog/olant/?ID=38336&SECTION_ID=195004)).
 
 #### Одежда
@@ -25,7 +25,7 @@ permalink: /baby-wishlist/
 
 Зимнего пока не надо.
 
-<span class="label label-danger">Сейчас</span> Хотим пеленальное одеяло [Red Castle miracle blanket](http://www.olant-shop.ru/catalog/olant/?ID=114525&SECTION_ID=2087).
+<span class="label label-danger">Сейчас</span> <span class="label label-warning">Занято</span> Хотим пеленальное одеяло [Red Castle miracle blanket](http://www.olant-shop.ru/catalog/olant/?ID=114525&SECTION_ID=2087).
 
 #### Расходники, косметика
 
