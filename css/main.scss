@@ -4,6 +4,9 @@
 @charset "utf-8";
 
 $font-family-sans-serif: "PT Sans", Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-narrow: "PT Sans Narrow", Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-caption: "PT Sans Caption", Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 $font-size-root: 20px;
 $link-decoration: underline;
 $font-size-base:             1rem !default;
@@ -19,11 +22,18 @@ $font-size-h4:               1.33rem !default;
 $font-size-h5:               1rem !default;
 $font-size-h6:               1rem !default;
 
+$lead-font-size:             1.33rem !default;
+
+$display1-size:               7.36rem !default;
+$display2-size:               5.54rem !default;
+$display3-size:               4.16rem !default;
+$display4-size:               3.13rem !default;
+
 $headings-font-weight:       normal;
 
 @import "bootstrap/bootstrap";
 
-ul.dashes {
+ul {
     list-style: none;
     margin-left: -1.6em;
     li:before { content: "— "; margin-left: -1em; }
@@ -32,6 +42,10 @@ ul.dashes {
 h6 { font-style: italic; }
 
 h5 { font-weight: bolder; }
+
+.display-1, .display-2, .display-3, .display-4 {
+    font-family: $font-family-narrow;
+}
 
 //
 //
